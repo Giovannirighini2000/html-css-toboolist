@@ -36,3 +36,26 @@ body{
     border-radius: 3px 3px;
     
 }
+.container2{
+    background-color: white;
+    margin:2px 80px 1px 80px;
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+
+}
+.v{
+    border: 3px solid greenyellow;
+    color: greenyellow;
+    border-radius: 50%;
+}
+.editorial{
+    border: 4px solid rgb(103, 103, 241);
+    background-color: rgb(103, 103, 241);
+    color: white;
+    border-radius: 18%;
+    
+    
+
+
+}
