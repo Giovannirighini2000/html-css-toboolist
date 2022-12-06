@@ -13,3 +13,26 @@
 body{
     background-color: rgb(189, 189, 189);
 }
+.container1{
+    max-width: 1200px;
+    border:20px solid white;
+    margin:15px 80px 0px 80px;
+    border-radius: 5px 5px 0px 0px;
+    background-color: white;      
+}
+.button1{
+    background-color:rgb(103,103, 241);
+    padding: 3px 8px;
+    border: 1px solid rgb(103, 103, 241);
+    color: white;
+    border-radius: 3px 3px;
+
+}
+.button2{
+    padding: 3px 8px;
+    color: grey;
+    background-color: white;
+    border: 1px solid rgb(77, 72, 72);
+    border-radius: 3px 3px;
+    
+}
