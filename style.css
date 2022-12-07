@@ -10,11 +10,14 @@
     background-color: white;
    
 }
+.logo{
+    padding: 1px;
+}
 body{
     background-color: rgb(189, 189, 189);
 }
 .container1{
-    max-width: 1400px;
+    max-width: 1200px;
     border:20px solid white;
     margin:15px 80px 0px 80px;
     border-radius: 5px 5px 0.5px 0.5px;
